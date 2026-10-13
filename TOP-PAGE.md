@@ -1,5 +1,5 @@
 layout: page
 title: "TOP-PAGE"
-permalink: /TOP-PAGE
+permalink: /about
 
 # Hello World.
